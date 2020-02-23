@@ -5,18 +5,22 @@
 </p>
 
 # Rodrigo Oliveira
-<sub>*Analista de BI * na Comdata Group
+<sub>*Analista de BI * na Comdata Group   
 
-Sou um profissional com experiência em BI e desenvolvendo alguns projetos em Data Science.
+
+Miha atual experiência  trabalho com grande volume de dados para gerar insights de negócios para clientes externos e internos.
+
 
 Em minha última experiência contribuí para a automatização de vários relatórios que eram mensalmente manipulados com Excel e Power Point.
 Fiz o mapeamento dessas atividades e automatizei esses indicadores para o Power BI, relatórios de 150 páginas ficaram dinâmicos e ágeis em 11 dashboards, tínhamos uma validação constante referente o faturamento da VIVO onde utilizava muitas consultas em SQL Server com intuito de minimizar erros de processamento.
-Em experiências passadas trabalhei em áreas comerciais, com planejamento e controle de produção( Logística), backoffice  Itaucard solucionando diversas situações relacionadas a cartões de crédito
+
 
 Sou graduado em Administração, curso técnico em Logística,  SQL server, Power BI, SSIS, cursos em Excel Avançado,  introdução a BIG DATA, cursando graduação em Data Science.
 
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Power BI, SQL Server, PostgreSQL, Excel, Conceitos de Business Intelligence, Python, Machine Learning
+
+
 
 **Links:**
 
