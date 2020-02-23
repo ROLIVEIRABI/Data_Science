@@ -5,7 +5,7 @@
 </p>
 
 # Rodrigo Oliveira
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Analista de BI * na Comdata Group
 
 Sou um profissional com experiência em BI e desenvolvendo alguns projetos em Data Science.
 
