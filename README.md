@@ -28,17 +28,9 @@ Sou graduado em Administração, curso técnico em Logística,  SQL server, Powe
 * [Medium](https://www.medium.com)
 
 
-## Projetos:
+## Projetos
+
 Veja os projetos publicados:
-
-* ** Estudo Airbnb com as cidades de Barcelona e Madri:**  http://bit.ly/38VlVR4
-
-* **Como usar o Histograma para Data Science**
-* **Como Implementar Regressão Linear com Python:** 
-* **Data Science: Investigando o naufrágio do Titanic:** 
-* **Como Tratar Dados Ausentes com Pandas:** 
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** 
-* **Como criar uma Wordcloud em Python:** 
-* **Como lidar com dados desbalanceados:** 
-
----
+     
+*  Projeto em Power BI Desktop : http://bit.ly/
+*  Estudo Airbbnb para as cidades de Barcelona e Madri:  http://bit.ly/38VlVR4
