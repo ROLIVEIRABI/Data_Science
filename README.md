@@ -31,7 +31,9 @@ Sou graduado em Administração, curso técnico em Logística,  SQL server, Powe
 ## Projetos:
 Veja os projetos publicados:
 
-* **Como usar o Histograma para Data Science:**
+* ** Estudo Airbnb com as cidades de Barcelona e Madri:**  http://bit.ly/38VlVR4
+
+* **Como usar o Histograma para Data Science**
 * **Como Implementar Regressão Linear com Python:** 
 * **Data Science: Investigando o naufrágio do Titanic:** 
 * **Como Tratar Dados Ausentes com Pandas:** 
